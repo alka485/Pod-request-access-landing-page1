@@ -32,7 +32,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/Screenshot%20.png)
+## Desktop
+
+![](./assets/desktop.png)
+
+## Desktop-active
+
+![](./assets/desktop-active.png)
+
+## Mobile 
+![](./assets/mobile.png)
 
 
 ### Links
