@@ -47,7 +47,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/alka485/Pod-request-access-landing-page1.git)
-- Live Site URL: [Add live site URL here](https://alka485.github.io/Pod-request-access-landing-page/)
+- Live Site URL: (https://alka485.github.io/Pod-request-access-landing-page1/)
 
 ## My process
 
@@ -69,8 +69,4 @@ Users should be able to:
 
 
 
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
